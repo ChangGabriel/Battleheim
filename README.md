@@ -7,3 +7,5 @@ Use three exciting abilities to fight big packs of enemies as you move through r
 The purpose of the project is about developing a game demo starting with an idea and working on it through a concept description, a target group analysis, a defined tech platform and a business plan.
 
 For more information see Website: https://battleheim.wordpress.com/
+
+Unity Editor Version: 2020.3.3f1
